@@ -21,7 +21,7 @@ Identificación visual de outliers mediante Boxplots.
 Tratamiento de Outliers:
 Cálculo de límites estadísticos utilizando el método del Rango Intercuartílico (IQR).
 Toma de decisiones sobre la permanencia de consumidores intensivos.
-Segmentación (Feature Engineering):
+Segmentación:
 Creación de `grupo_edad`: Joven, Adulto y Adulto Mayor.
 Creación de `grupo_uso`: Bajo uso, Uso medio y Alto uso.
 Insights y Visualización:
